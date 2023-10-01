@@ -55,7 +55,7 @@
 <details open>
   <summary>Machine Specs</summary>
 
-  - CPU: AMD Ryzen Threadripper 2950x
+  - CPU: AMD Ryzen Threadripper 2970x
   - GPU: Nvidia RTX 3080
   - RAM: 128GB (4x32GB) Corsair Vengeance LPX CL16
   - Case: Fractal Design Define 7 XL
