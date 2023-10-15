@@ -82,5 +82,24 @@
     - Earbuds/IEMs: MEE audio M6 Pro 2nd Gen, Wired + BTC2 aptX Bluetooth adapter
 
   </details>
+<details open>
+  <summary>Homelab Server Specs</summary>
+
+  - CPU: AMD Ryzen Threadripper 2970x
+  - GPU1: MSI GeForce RTX 3080 Ti Gaming X Trio
+  - GPU2: XFX Speedster MERC319 AMD Radeon 6800xt
+  - RAM: 128GB (4x32GB) Corsair Vengeance LPX CL16
+  - Case: Fractal Design Define 7 XL
+  - Cooler: Noctua NH-U14S TR4-SP3 Air Cooler
+  - Motherboard: Asus ROG Stix X399-E Gaming Wi-Fi
+  - Drives:
+    - Boot: Crucial P3 Plus PCIe Gen 4 1TB
+      - System: Proxmox VE 8.0-2
+    - Storage: Seagate IronWolf Pro 16tb x 2 (increase over time)
+
+</details>
+
+<br><br>
+
 
 <br><br>
