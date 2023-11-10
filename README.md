@@ -41,11 +41,12 @@
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
 &nbsp; ∘ &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
 &nbsp; ∘ &nbsp; 🛠 DIY Raspberry Pi Projects<br>
-&nbsp; ∘ &nbsp; 🖥️ Virtualization & Containers
-- I'm daily-driving [Garuda KDE Dr460nized](https://garudalinux.org) and [Kali_Linux](https://www.kali.org/), but still use [WinBlows](https://geekprank.com/) for some software.
-- 💬 Ask me about Python, AI, Security, Virtualization, or anything really
+&nbsp; ∘ &nbsp; 🖥️ Virtualization & Containers<br>
+- I'm daily-driving [Garuda KDE Dr460nized](https://garudalinux.org) and [Kali_Linux](https://www.kali.org/), but still use [WinBlows](https://geekprank.com/) in a kvm.
+- 💬 Ask me about AI, Security, Virtualization, or anything really
 - 📙 Check out my [Website](https://angelsantiago.me)
-- 🎉 Fun-Fact: I ❤️ Nachos and Wolf-Dogs
+- 🎉 Fun-Fact 1: I ❤️ Nachos and Wolf-Dogs
+- 🎉 Fun-Fact 2: I'm a super nerd
 
 <br><br>
 
@@ -55,15 +56,16 @@
 <details open>
   <summary>Machine Specs</summary>
 
-  - CPU: AMD Ryzen Threadripper 2970x
+  - Motherboard: ASRock X570 Taichi
+  - CPU: AMD Ryzen 5950x
   - GPU: Nvidia RTX 3080
-  - RAM: 128GB (4x32GB) Corsair Vengeance LPX CL16
-  - Case: Fractal Design Define 7 XL
-  - Cooler: Noctua NH-U14S TR4-SP3 Air Cooler
-  - Motherboard: Asus ROG Stix X399-E Gaming Wi-Fi
+  - RAM: 64GB (4x16GB) Corsair Vengeance LPX CL16
+  - Case: Thermaltake Core P3
+  - Cooler: be quiet! Dark Rock Pro 4
   - Drives:
     - Boot: Crucial P3 Plus PCIe Gen 4 1TB
-    - Work: PNY CS900 2TB x2 SSD
+      - System 1: Kali Linux
+      - System 2: Garuda KDE Dr4g0nized Gaming
     - Game: Samsung 870 QVO SATA III SSD 4TB
 
 </details>
@@ -71,14 +73,17 @@
 <details>
   <summary>Peripherals</summary>
 
-  - Monitor: 3x UPERFECT 500 nits 10bit 16" Frameless 120hz 2560 x 1600, 1x ZSCMALLS 15.6" 60hz 1080 X 1920
-  - Keyboard: Drop Enter + Lord of the Rings w/ Dwarvish Keycap Set, Holy Panda X switches, Phantom Stabs; added foam mod, force break mod, tuned stabs.
+  - Monitor: 3x UPERFECT 500 nits 10bit 16" Frameless 120hz 2560 x 1600, 1x ZSCMALLS 15.6" 60hz 1080 X 1920 (vertical)
+  - Phone: Google Pixel 6XL w/Phoenix OS (formerly OnePlus 7 Pro w/LineageOS 21)
+  - Keyboard: Drop Enter + Lord of the Rings w/ Dwarvish Keycap Set, Holy Panda X switches, Phantom Stabs; added foam mod, force break mod, tuned stabs, lubed springs.
   - Mouse: UtechSmart Venus Pro RGB Wireless + 16M Chroma RGB, 16 programmable buttons, 16K DPI
+  - Webcam 1: Angetube Streaming 1080p HD w/Adjustable ring light
+  - Webcam 2: Anker PowerConf C200 2k
   - Audio Equip:
     - Speakers: N/A (Apartment Life)
     - Amplifier/DAC: Qudelix-5K Bluetooth, aptX Adaptive/aptX HD
     - Microphone: Hyper X QuadCast (Blue Yeti too heavy for boom arm)
-    - Headphones: Sony WH-1000XM4 (Wireless/Wired, ANC); Sennheiser HD 599 Open Back, Ivory
+    - Headphones: Sony WH-1000XM4 (Wireless/Wired, ANC); Sennheiser HD 599 Open Back
     - Earbuds/IEMs: MEE audio M6 Pro 2nd Gen, Wired + BTC2 aptX Bluetooth adapter
 
   </details>
@@ -91,9 +96,9 @@
   - RAM: 128GB (4x32GB) Corsair Vengeance LPX CL16
   - Case: Fractal Design Define 7 XL
   - Cooler: Noctua NH-U14S TR4-SP3 Air Cooler
-  - Motherboard: Asus ROG Stix X399-E Gaming Wi-Fi
+  - Motherboard: Gigabyte AORUS Xtreme TRX40
   - Drives:
-    - Boot: Crucial P3 Plus PCIe Gen 4 1TB
+    - Boot: Team Group MP44 4TB SLC Gen 4x4 PCIe 4.0
       - System: Proxmox VE 8.0-2
     - Storage: Seagate IronWolf Pro 16tb x 2 (increase over time)
 
