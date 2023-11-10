@@ -64,7 +64,7 @@
   - Cooler: be quiet! Dark Rock Pro 4
   - Drives:
     - Boot: Crucial P3 Plus PCIe Gen 4 1TB
-      - System 1: Kali Linux
+      - System 1: Kali Linux 2023.3 KDE
       - System 2: Garuda KDE Dr4g0nized Gaming
     - Game: Samsung 870 QVO SATA III SSD 4TB
 
