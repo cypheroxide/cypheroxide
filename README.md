@@ -2,7 +2,7 @@
 
 <!--Welcome to my readme source! Glad to see you here. Some would say this was fun, but I only chose to do this because I was tired of a plain looking profile. In any case, thanks for stopping by-->
 
-<h3 align="center">Just another neighborhood hacker and junior Cybersecurity Operator, working all day and hacking the planet at night. I'm not a bad guy, though. I just like to break things so I have to figure out how to fix them. I swear!</h3>
+<h3 align="center">Just another neighborhood hacker and junior Cybersecurity Operator, working all day and hacking the planet at night. I'm not a bad guy, though. I was gifted with eloquent speech and seem to use it for evil. I just like to break things so I have to figure out how to fix them. I swear! </h3>
 <div align="center">
 
 <h2 align="center">You can find me at these places. If you can't find me here, I'm probably going off-grid for awhile.</h2></div>
