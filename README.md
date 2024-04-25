@@ -2,10 +2,10 @@
 
 <!--Welcome to my readme source! Glad to see you here. Some would say this was fun, but I only chose to do this because I was tired of a plain looking profile. In any case, thanks for stopping by-->
 
-<h3 align="center">Just another neighborhood hacker and junior Cybersecurity Operator, working all day and hacking the planet at night. I'm not a bad guy, though. I was gifted with eloquent speech and seem to use it for evil. I just like to break things so I have to figure out how to fix them. I swear! </h3>
+<h3 align="center">Just another neighborhood hacker and Cybersecurity Operator, working all day and hacking the planet at night. I'm not a bad guy, though. I was gifted with eloquent speech and seem to use it for evil. I just like to break things so I have to figure out how to fix them. I swear! </h3>
 <div align="center">
 
-<h2 align="center">You can find me at these places. If you can't find me here, I'm probably going off-grid for awhile.</h2></div>
+<h2 align="center">You can find me at these places. If you can't find me here, I'm probably going offline for awhile.</h2></div>
 <p align="left">
    <a href="https://www.youtube.com/c/cypher-oxide?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLEQ8FAo6qX86FZNUmrEgdA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -24,7 +24,7 @@
 
 ## ⚡️ A few Quick Facts
 
-<!--This part was an absolute nightmare to figure out. Turns out that Githubs extended markdown is scuffed. Left-embedded gifs break everything, so what you see below is the only way to fix it. I seem to be the only one to have even gotten that far.
+<!--This part was an absolute nightmare to figure out. Turns out that GitHub's extended markdown is scuffed and not like I understand it. Left-embedded gifs break everything, so what you see below is the only way to fix it. I seem to be the only one to have even gotten that far.
 -->
 
 <div>
@@ -35,13 +35,14 @@
 -  I'm a `36?` year old nerf herder (male)
 -  I’m currently expanding a home lab on Proxmox VE, Docker, Kubernetes, and too many other services/platforms.
 -  I also like CTF Competitions.
--  I’m currently learning how to use `Fabric`, `Rust`, and `ISC2`.
+-  I’m currently learning how to use `Fabric`, `Rust`, and `NixOS`.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
 &nbsp; ∘ &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
 &nbsp; ∘ &nbsp; 🛠 DIY Hardware Hacking Projects<br>
 &nbsp; ∘ &nbsp; 🖥️ Virtualization & Containers<br>
-- I'm daily-driving [Arch]([https://archlinux.org/]) and a stripped and chopped [Kali Linux Purple](https://www.kali.org/) kvm. I also run over 20 VMs on my server.
+&nbsp; ∘ &nbsp; 🖥️ Building and breaking Linux systems<br>
+- I'm daily-driving [Arch]([https://archlinux.org/]) and a stripped and chopped [Kali Linux Purple](https://www.kali.org/) kvm. I also run over 20 VMs on my server. I'm playing with a new distro and breaking it while talking with teh developer. 😁
 - 💬 Ask me about Cyber Security, Virtualization, GRC, or anything really.
 - 📙 Check out my [Website](https://angelsantiago.me)
 - 📙 Visit my organization [Hope Integrated Systems](https://www.hopeintsys.com)
