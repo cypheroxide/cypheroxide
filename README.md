@@ -42,7 +42,7 @@
 &nbsp; ∘ &nbsp; 🛠 DIY Hardware Hacking Projects<br>
 &nbsp; ∘ &nbsp; 🖥️ Virtualization & Containers<br>
 &nbsp; ∘ &nbsp; 🖥️ Building and breaking Linux systems<br>
-- I'm daily-driving [Arch]([https://archlinux.org/]) and a stripped and chopped [Kali Linux Purple](https://www.kali.org/) kvm. I also run over 20 VMs on my server. I'm playing with a new distro and breaking it while talking with teh developer. 😁
+- I'm daily-driving [Arch]([https://archlinux.org/]) and I'm playing with a new distro and breaking it while talking with the developer. 😁. I also run over 20 VMs on my server.
 - 💬 Ask me about Cyber Security, Virtualization, GRC, or anything really.
 - 📙 Check out my [Website](https://angelsantiago.me)
 - 📙 Visit my organization [Hope Integrated Systems](https://www.hopeintsys.com)
