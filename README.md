@@ -19,8 +19,6 @@
          <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
       <a href="https://instagram.com/cypheroxide" target="_blank">
          <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
-      <a href="https://discord.gg/flipper-xtreme" target="_blank">
-         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/></a>
       <a href="https://discord.gg/3kWZpq97Va" target="_blank">
          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/></a>
 
