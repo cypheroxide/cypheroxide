@@ -16,6 +16,11 @@ Just another neighborhood hacker and Cybersecurity Operator, passionate about br
 
 ---
 
+![Metrics](https://github.com/cypheroxide/cypheroxide/blob/main/github-metrics.svg)
+
+
+---
+
 ## 🖥️ My Tech Stack
 ![Tech Stack](Suggested: Graphic of various tools you use regularly like Arch Linux, Rust, Docker, Proxmox VE, Kubernetes, etc.)
 
