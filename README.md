@@ -18,7 +18,7 @@ BANNER - Work In Progess
 
 ---
 
-![Metrics](https://metrics.lecoq.io/insights/cypheroxide)
+![logo](https://raw.githubusercontent.com/cypheroxide/cypheroxide/github-metrics.svg)
 
 ---
 
