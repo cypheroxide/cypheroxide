@@ -2,7 +2,7 @@
 
 Just another neighborhood hacker and Cybersecurity Operator, passionate about breaking things so I can learn how to fix them.
 
-![Profile Banner](Suggested: Create a banner that reflects cybersecurity themes, your alias "Cypher Oxide," and a hacker/matrix-style aesthetic)
+BANNER - Work In Progess
 
 ---
 
@@ -17,7 +17,6 @@ Just another neighborhood hacker and Cybersecurity Operator, passionate about br
 ---
 
 ![Metrics](https://github.com/cypheroxide/cypheroxide/blob/main/github-metrics.svg)
-
 
 ---
 
@@ -59,6 +58,6 @@ Just another neighborhood hacker and Cybersecurity Operator, passionate about br
 - [LinkedIn](https://www.linkedin.com/in/angel-santiago/)
 - [Website](https://www.hopeintsys.com)
 
-![Footer Graphic](Suggested: A sleek footer showcasing all your social links in a clean, techy aesthetic)
+FOOTER - Work In Progess
 
 Thanks for stopping by! Feel free to reach out or drop me a message. Always up for a tech chat or a new challenge! 💬
