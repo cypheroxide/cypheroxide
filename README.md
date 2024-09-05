@@ -1,52 +1,65 @@
-# 👋 Hey, I'm Angel Santiago (a.k.a Cypher Oxide)
+# 👋 Hey, my name's Angel, but you can call me by my handle, CypherOxide
 
-Just another neighborhood hacker and Cybersecurity Operator, passionate about breaking things so I can learn how to fix them.
+I am an ethical hacker, cybersecurity researcher, and passionate about integrating AI into my workflows. I create blogs, CTF write-ups, and tutorials on cybersecurity, Linux, and automation. And I have a habit of making obscure pop-culture references.
+
 
 BANNER - Work In Progess
 
 ---
 
 ## 🚀 About Me
-- **Hacker by night**, security analyst by day 🕶️
-- Building and tinkering with my [Proxmox VE](https://www.proxmox.com/), Docker, Kubernetes homelab 🛠️
+- **Hacker by day**, NOC technician and AI dev by night (3rd shift, ugh) 🕶️
+- Building and tinkering with my [VPS servers](https://hostinger.com/?REFERRALCODE=1ANGELSANTI16), Docker/Podman, Kubernetes, and homelab 🛠️
 - Daily driving [Arch Linux](https://archlinux.org/) with a special love for containers, virtualization, and AI.
-- Avid CTF competitor and security researcher 🔍
-- 🧠 Currently learning: **Rust, NixOS**, and diving deeper into **ML & AI**.
+- Avid CTF competitor and security researcher, specializing in networking and Red Team Operations 🔍
+- 🧠 Currently learning: **Rust, Golang, APIs**, and diving deeper into **ML & AI**.
 - Check out my [website](https://www.hopeintsys.com) for cybersecurity blogs, write-ups, and tutorials!
+- Or maybe check out my [portfolio](https://angelsantiago.me) to keep up to date with my projects!
 
 ---
 
-![Metrics](https://github.com/cypheroxide/cypheroxide/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/cypheroxide)
 
 ---
 
 ## 🖥️ My Tech Stack
 ![Tech Stack](Suggested: Graphic of various tools you use regularly like Arch Linux, Rust, Docker, Proxmox VE, Kubernetes, etc.)
 
-- **Operating Systems**: Arch Linux, NixOS, Kali
-- **Languages**: Bash, Python, Rust, C++
-- **Tools**: Docker, Proxmox VE, Kubernetes, QEMU, Git
-- **Penetration Testing**: Burp Suite, Nmap, Metasploit, Wireshark
-- **Cloud/Virtualization**: Proxmox, Docker, Kubernetes
+- **Operating Systems**: Arch Linux, Red Hat/CentOS, Kali, Windows 10/11
+- **Languages**: Bash, Python, PowerSehll, Rust, Go, Javascript, HTML/CSS
+- **Tools**: Docker/Podman, Proxmox VE, Kubernetes, QEMU, Git
+- **Penetration Testing**: Burp Suite, Nmap, Metasploit, Wireshark, Nessus, Aircrack-ng, Hashcat
+- **Cloud/Virtualization**: Proxmox, Docker/Podman, Kubernetes, QEMU
 
 ---
 
 ## ⚡ Quick Facts
 - 💡 Always experimenting with **Pentesting**, **AI**, and **Linux**
-- 🐺 Proud dog-dad of a **Wolf-Dog** 🐾
+- 🐺 Unfortunate dog-dad of a **Morkie** 🐾
+- 😺 Black Cat Owner (Meet **Hades** aka "Turd Muffin" 🖤)
+- 💡 In a Hate-Hate relationship with **My Pillow**
 - 🧀 Nachos Enthusiast
-- 😺 Black Cat Owner (Meet **Hades** 🖤)
 
 ---
 
 ## 💻 My Rig & Homelab Setup
 
 - **Main Workstation**
-  - AMD Ryzen 5800x / Nvidia RTX 3080 / 64GB RAM
-  - Running: **Arch Linux (KDE/Wayland)** with **Hyprland**
+  - ***Alienware Aurora R10 Ryzen Edition***
+    - AMD Ryzen 5800x / Nvidia RTX 3080 / 64GB RAM / 2TB NVME + 14TB STORAGE
+    - Running: **Arch Linux (KDE/Wayland)**
+
+- **Work Laptop**
+  - ***Lenovo Legion 5***
+    - AMD Ryzen 4600h / Nvidia GTX 2070 / 32GB RAM / 2 x 1TB NVME
+    - Running:  **Arch Linux (KDE/Wayland)** & **DWM**
 
 - **Homelab**
-  - AMD Ryzen Threadripper 3970x / 2x RTX 3080 Ti / 256GB RAM
+  - Rasberry Pi 5 8GB
+  - Pwnie Express Pwn Pro
+  - Minigotchi (ESP 8266-based pwnagotchi)
+  - Supermicro 4028GR-TRT
+  - Intel Xeon E5-2620 V4 x 2 / 4x Nividia  / 256GB RAM
   - Running: **Proxmox VE**, **Docker**, **Kubernetes**
 
 ---
