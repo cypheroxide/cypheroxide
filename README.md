@@ -8,7 +8,7 @@ BANNER - Work In Progess
 ---
 
 ## 🚀 About Me
-- **Hacker by day**, NOC technician and AI dev by night (3rd shift, ugh) 🕶️
+- **Hacker** by day, **NOC Technician** and **AI Dev** by night (3rd shift, ugh) 🕶️
 - Building and tinkering with my [VPS servers](https://hostinger.com/?REFERRALCODE=1ANGELSANTI16), Docker/Podman, Kubernetes, and homelab 🛠️
 - Daily driving [Arch Linux](https://archlinux.org/) with a special love for containers, virtualization, and AI.
 - Avid CTF competitor and security researcher, specializing in networking and Red Team Operations 🔍
