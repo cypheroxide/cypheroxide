@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&letterSpacing=tight&duration=4000&pause=400&color=459EB5&center=true&vCenter=true&multiline=true&width=535&height=100&lines=%F0%9F%91%8B+Hey%2C+my+name's+Angel%2C+but+you+can;call+me+by+my+handle%2C+CypherOxide!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&duration=4000&pause=400&color=459EB5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%91%8B+Hey%2C+my+name's+Angel%2C+but+you+can;call+me+by+my+handle%2C+CypherOxide!)](https://git.io/typing-svg)
 
-# 👋 Hey, my name's Angel, but you can call me by my handle, CypherOxide
 
 I am an ethical hacker, cybersecurity researcher, and passionate about integrating AI into my workflows. I create blogs, CTF write-ups, and tutorials on cybersecurity, Linux, and automation. And I have a habit of making obscure pop-culture references.
 
