@@ -24,47 +24,74 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 
 ---
 
+![metrics](https://metrics.lecoq.io/insights/cypheroxide)
+
+---
 ## 🖥️ My Tech Stack
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,bash,powershell,azure,aws,kubernetes,arch,kali,redhat,cmake,notion,obsidian,git,github,go,mongodb,postgres,nodejs,raspberrypi,replit,rust,tensorflow,pytorch,ubuntu,vscode,windows,wordpress&perline=13)](https://skillicons.dev)
 
-- **Operating Systems**: Arch Linux, Red Hat/CentOS, Kali, Windows 10/11
-- **Languages**: Bash, Python, PowerSehll, Rust, Go, Javascript, HTML/CSS
-- **Tools**: Docker/Podman, Proxmox VE, Kubernetes, QEMU, Git
+- **Operating Systems**: Arch Linux, Red Hat/CentOS, Ubuntu/Debian, Kali, Windows 10/11
+- **Languages**: Bash, Python, PowerSehll, Rust, Go, Javascript
+- **Tools**: Docker/Podman, Kubernetes, QEMU, Git, Notion, Obsidian, SillyTavern, AnythingLLM
 - **Penetration Testing**: Burp Suite, Nmap, Metasploit, Wireshark, Nessus, Aircrack-ng, Hashcat
-- **Cloud/Virtualization**: Proxmox, Docker/Podman, Kubernetes, QEMU
+- **Cloud/Virtualization**: Proxmox, Docker/Podman, Kubernetes, QEMU, VPS (Virtual Private Server)
 
 ---
 
 ## ⚡ Quick Facts
-- 💡 Always experimenting with **Pentesting**, **AI**, and **Linux**
+- 🤖💻 Always experimenting with **Pentesting**, **AI**, and **Linux**
 - 🐺 Unfortunate dog-dad of a **Morkie** 🐾
 - 😺 Black Cat Owner (Meet **Hades** aka "Turd Muffin" 🖤)
-- 💡 In a Hate-Hate relationship with **My Pillow**
-- 🧀 Nachos Enthusiast
-
+- 🛌 In a Hate-Hate relationship with **My Pillow**
+- 🧀 Nacho Enthusiast
+- 👾 Last to successfully Gnarfle the Garthok
+- 
 ---
 
 ## 💻 My Rig & Homelab Setup
 
 - **Main Workstation**
-  - ***Alienware Aurora R10 Ryzen Edition***
+  - ***DIY Build***
     - AMD Ryzen 5800x / Nvidia RTX 3080 / 64GB RAM / 2TB NVME + 14TB STORAGE
-    - Running: **Arch Linux (KDE/Wayland)**
+    - Running: Dual boot **Arch Linux (KDE/Wayland)** & **Parrot Security (xfce)**
+    - Peripherals:
+      - Drop Entr + LOTR Dwarvish Edition
+      - UtechSmart Venus Pro RGB Mouse
+      - Anker PowerConf C200 2K webcam
+      - Sony WH-1000XM4 Wireless/Wired ANC headphones
+      - Sennheiser HD 560s open-back headphones
+        - Focusrite Scarlett Solo (2nd Gen) Audio DAC 
 
 - **Work Laptop**
   - ***Lenovo Legion 5***
-    - AMD Ryzen 4600h / Nvidia GTX 2070 / 32GB RAM / 2 x 1TB NVME
+    - AMD Ryzen 4800h / Nvidia GTX 2070 / 32GB RAM / 2 x 1TB NVME
     - Running:  **Arch Linux (KDE/Wayland)** & **DWM**
+    - Peripherals:
+      - Uperfect 16" 120Hz 2560x1600 Portable Monitor
+      - UtechSmart Venus Pro RGB Wireless Mouse
+      - MeeAudio M6 Pro IEM, bluetooth + wired in-ear monitors
 
 - **Homelab**
-  - Rasberry Pi 5 8GB
+  - Raspberry Pi 5 8GB w/Raspberry Pi OS
+  - ienRon 10 port Switch
   - Pwnie Express Pwn Pro
-  - Minigotchi (ESP 8266-based pwnagotchi)
   - Supermicro 4028GR-TRT
-  - Intel Xeon E5-2620 V4 x 2 / 4x Nividia  / 256GB RAM
-  - Running: **Proxmox VE**, **Docker**, **Kubernetes**
+    - Intel Xeon E5-2620 V4 x 2 / 4x Nividia M40 24GB / 256GB RAM
+    - Running: **Proxmox VE**, **Docker**, **Kubernetes**
+
+- **Pentester EDC**
+  - Google Pixel 6 Pro, GrapheneOS
+  - OnePlus 7 Pro, eOS (rooted) + Kali Nethunter + custom kernel
+  - Raspberry Pi 4 4GB (Kali Linux) 
+    - PiSugar S 5000mAh + VuFine VF-110 mono display, iClever BK08 folding keyboard
+  - Covert Instruments Echelon Set
+  - Full set Auto Jigglers + warded lock picks
+  - Flipper Zero + [Momemtum](https://momentum-fw.dev/) firmware (current build: mntm-dev-3eab261e)
+  - Panda Wireless pau09 dual-band usb wifi adapter
+  - Hak5 WiFi Pineapple Mk VII
+  - Minigotchi (ESP 8266-based pwnagotchi)
 
 ---
 
