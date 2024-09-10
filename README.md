@@ -19,10 +19,6 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 - Or maybe check out my [portfolio](https://angelsantiago.me) to keep up to date with my projects!
 
 ---
-
-![logo](HOPE_Integrated_Systems_Logo-banner-crop.png)
-
----
 ## 🖥️ My Tech Stack
 
 
@@ -89,6 +85,8 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
   - Hak5 WiFi Pineapple Mk VII
   - Minigotchi (ESP 8266-based pwnagotchi)
 
+---
+![logo](HOPE_Integrated_Systems_Logo-banner-crop.png)
 ---
 
 ## 📫 Get in Touch
