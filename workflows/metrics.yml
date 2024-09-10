@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: cypheroxide/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.README_TOKEN }}
           template: classic
           base: header, activity
           plugin_languages: yes
