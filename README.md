@@ -1,5 +1,4 @@
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&letterSpacing=tight&duration=4000&pause=400&color=459EB5&center=true&vCenter=true&multiline=true&width=535&height=100&lines=%F0%9F%91%8B+Hey%2C+my+name's+Angel%2C+but+you+can;call+me+by+my+handle%2C+CypherOxide!)](https://git.io/typing-svg)
 
 # 👋 Hey, my name's Angel, but you can call me by my handle, CypherOxide
 
@@ -28,6 +27,8 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 ---
 
 ## 🖥️ My Tech Stack
+
+
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,bash,powershell,azure,aws,kubernetes,arch,kali,redhat,cmake,notion,obsidian,git,github,go,mongodb,postgres,nodejs,raspberrypi,replit,rust,tensorflow,pytorch,ubuntu,vscode,windows,wordpress&perline=13)](https://skillicons.dev)
 
 - **Operating Systems**: Arch Linux, Red Hat/CentOS, Kali, Windows 10/11
