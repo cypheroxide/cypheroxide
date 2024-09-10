@@ -1,9 +1,14 @@
+
+
+
 # 👋 Hey, my name's Angel, but you can call me by my handle, CypherOxide
 
 I am an ethical hacker, cybersecurity researcher, and passionate about integrating AI into my workflows. I create blogs, CTF write-ups, and tutorials on cybersecurity, Linux, and automation. And I have a habit of making obscure pop-culture references.
 
+---
+---
 
-BANNER - Work In Progess
+![Banner](Banner.png)
 
 ---
 
@@ -23,7 +28,7 @@ BANNER - Work In Progess
 ---
 
 ## 🖥️ My Tech Stack
-![Tech Stack](Suggested: Graphic of various tools you use regularly like Arch Linux, Rust, Docker, Proxmox VE, Kubernetes, etc.)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,bash,powershell,azure,aws,kubernetes,arch,kali,redhat,cmake,notion,obsidian,git,github,go,mongodb,postgres,nodejs,raspberrypi,replit,rust,tensorflow,pytorch,ubuntu,vscode,windows,wordpress&perline=13)](https://skillicons.dev)
 
 - **Operating Systems**: Arch Linux, Red Hat/CentOS, Kali, Windows 10/11
 - **Languages**: Bash, Python, PowerSehll, Rust, Go, Javascript, HTML/CSS
