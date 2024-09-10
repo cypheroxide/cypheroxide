@@ -24,10 +24,6 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 ![logo](HOPE_Integrated_Systems_Logo-banner-crop.png)
 
 ---
-
-![metrics](https://metrics.lecoq.io/insights/cypheroxide)
-
----
 ## 🖥️ My Tech Stack
 
 
