@@ -3,13 +3,14 @@ on:
   schedule: 
     - cron: '0 0 * * *' # This runs daily at midnight UTC
   workflow_dispatch: 
-
+  push:
+    branches:
+      - master
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - uses: cypheroxide/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
