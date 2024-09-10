@@ -20,7 +20,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 
 ---
 
-![logo](https://raw.githubusercontent.com/cypheroxide/cypheroxide/github-metrics.svg)
+![logo](HOPE_Integrated_Systems_Logo-banner-crop.png)
 
 ---
 
