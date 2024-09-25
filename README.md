@@ -39,7 +39,6 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 - 🛌 In a Hate-Hate relationship with **My Pillow**
 - 🧀 Nacho Enthusiast
 - 👾 Last to successfully Gnarfle the Garthok
-- 
 ---
 
 ## 💻 My Rig & Homelab Setup
