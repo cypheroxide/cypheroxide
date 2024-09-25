@@ -8,7 +8,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 ![Banner](Banner.png)
 
 ---
-![Metrics](https://github.com/cypheroxide/cypheroxide/actions/workflows/metrics.yml/github-metrics.svg)
+![Metrics](github-metrics.svg)
 ## 🚀 About Me
 - **Hacker** by day, **NOC Technician** and **AI Dev** by night (3rd shift, ugh) 🕶️
 - Building and tinkering with my [VPS servers](https://hostinger.com/?REFERRALCODE=1ANGELSANTI16), Docker/Podman, Kubernetes, and homelab 🛠️
