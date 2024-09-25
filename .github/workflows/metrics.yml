@@ -78,3 +78,7 @@ jobs:
           plugin_projects_limit: 4
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          
