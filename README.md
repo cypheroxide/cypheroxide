@@ -77,7 +77,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
   - OnePlus 7 Pro, eOS (rooted) + Kali Nethunter + custom kernel
   - Raspberry Pi 4 4GB (Kali Linux) 
     - PiSugar S 5000mAh + VuFine VF-110 mono display, iClever BK08 folding keyboard
-  - Covert Instruments Echelon Set
+  - [Covert Instruments](https://covertinstruments.com/) Echelon Set
   - Full set Auto Jigglers + warded lock picks
   - Flipper Zero + [Momemtum](https://momentum-fw.dev/) firmware (current build: mntm-dev-3eab261e)
   - Panda Wireless pau09 dual-band usb wifi adapter
