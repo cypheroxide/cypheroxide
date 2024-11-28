@@ -88,14 +88,19 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 ![logo](HOPE_Integrated_Systems_Logo-banner-crop.png)
 ---
 
+## If you like what you see, would you consider buying me some coffee?
+[BuyMeACoffe](https://buymeacoffee.com/cypheroxide)
+
 ## 📫 Get in Touch
 
 - [YouTube](https://www.youtube.com/c/CypherOxide)
 - [Twitter](https://twitter.com/CypherOxide)
+- [BlueSky](https://bsky.app/profile/cypheroxide.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/angel-santiago/)
 - [Website](https://www.hopeintsys.com)
 - [Portfolio](https://angelsantiago.me)
 
-FOOTER - Work In Progess
+
+![Footer](footer.png)
 
 Thanks for stopping by! Feel free to reach out or drop me a message. Always up for a tech chat or a new challenge! 💬
