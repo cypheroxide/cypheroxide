@@ -95,7 +95,6 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 
 - [YouTube](https://www.youtube.com/c/CypherOxide)
 - [Twitter](https://twitter.com/CypherOxide)
-- [BlueSky](https://bsky.app/profile/cypheroxide.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/angel-santiago/)
 - [Website](https://www.hopeintsys.com)
 - [Portfolio](https://angelsantiago.me)
