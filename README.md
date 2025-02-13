@@ -10,7 +10,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 ---
 ![Metrics](github-metrics.svg)
 ## 🚀 About Me
-- ** Microsoft Data Center Technician** by day, **Hacker** and **AI Dev** by night 🕶️
+- **Microsoft Data Center Technician** by day, **Hacker** and **AI Dev** by night 🕶️
 - Building and tinkering with my [VPS servers](https://hostinger.com/?REFERRALCODE=1ANGELSANTI16), Docker/Podman, Kubernetes, and homelab 🛠️
 - Daily driving [Arch Linux](https://archlinux.org/) with a special love for containers, virtualization, and AI.
 - Avid CTF competitor and security researcher, specializing in networking and Red Team Operations 🔍
