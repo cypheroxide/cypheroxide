@@ -10,11 +10,11 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 ---
 ![Metrics](github-metrics.svg)
 ## 🚀 About Me
-- **Technician** by day, **Hacker** and **AI Dev** by night 🕶️
+- ** Microsoft Data Center Technician** by day, **Hacker** and **AI Dev** by night 🕶️
 - Building and tinkering with my [VPS servers](https://hostinger.com/?REFERRALCODE=1ANGELSANTI16), Docker/Podman, Kubernetes, and homelab 🛠️
 - Daily driving [Arch Linux](https://archlinux.org/) with a special love for containers, virtualization, and AI.
 - Avid CTF competitor and security researcher, specializing in networking and Red Team Operations 🔍
-- 🧠 Currently learning: **Rust, Golang, APIs**, and diving deeper into **ML & AI**.
+- 🧠 Currently learning: **Rust, DCOps, Azure**, and diving deeper into **AI Integrations**.
 - Check out my [website](https://www.hopeintsys.com) for cybersecurity blogs, write-ups, and tutorials!
 - Or maybe check out my [portfolio](https://angelsantiago.me) to keep up to date with my projects!
 
@@ -46,7 +46,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 - **Main Workstation**
   - ***DIY Build***
     - AMD Ryzen 5800x / Nvidia RTX 3080 / 64GB RAM / 2TB NVME + 14TB STORAGE
-    - Running: Dual boot **Arch Linux (KDE/Wayland)** & **Parrot Security (xfce)**
+    - Running: Dual boot **Arch Linux (KDE/Wayland)** & **PopOS (Cosmic)**
     - Peripherals:
       - Drop Entr + LOTR Dwarvish Edition
       - UtechSmart Venus Pro RGB Mouse
@@ -55,7 +55,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
       - Sennheiser HD 560s open-back headphones
         - Focusrite Scarlett Solo (2nd Gen) Audio DAC 
 
-- **Work Laptop**
+- **Development Laptop**
   - ***Lenovo Legion 5***
     - AMD Ryzen 4800h / Nvidia GTX 2070 / 32GB RAM / 2 x 1TB NVME
     - Running:  **Arch Linux (KDE/Wayland)** & **DWM**
@@ -64,8 +64,18 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
       - UtechSmart Venus Pro RGB Wireless Mouse
       - MeeAudio M6 Pro IEM, bluetooth + wired in-ear monitors
 
+- **Work Laptop**
+  - ***Lenovo ThinkPad T14 Gen3***
+    - Intel vPro Core i5-1245u / Irix Xe / 16GB RAM / 256GB NVME
+    - Running: **Windows 11 Enterprise** / **HyperV KMVs**
+    - Peripherals:
+      - UtechSmart Venus Pro Wireless Mouse
+      - Royal Kludge RK-F68, kailh lo-pro browns
+      - JLab Epic AIR ANC
+
 - **Homelab**
   - Raspberry Pi 5 8GB w/Raspberry Pi OS
+  - 2x Raspberry Pi 4 4GB (1x Docker box: Nextcloud, PiHole, MariaDB, PostgreSQL, Searxng)(1x FreedomBox private server w/hotspot + Docker)
   - ienRon 10 port Switch
   - Pwnie Express Pwn Pro
   - Supermicro 4028GR-TRT
@@ -80,9 +90,12 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
   - [Covert Instruments](https://covertinstruments.com/) Echelon Set
   - Full set Auto Jigglers + warded lock picks
   - Flipper Zero + [Momemtum](https://momentum-fw.dev/) firmware (current build: mntm-dev-3eab261e)
+    - Triple-threat board: cc1101, nrf24 and sp32 w/3x stubby antenna
   - Panda Wireless pau09 dual-band usb wifi adapter
   - Hak5 WiFi Pineapple Mk VII
   - Minigotchi (ESP 8266-based pwnagotchi)
+  - Aeronote Reusable notebook x2 with Frixion Erasable Pen
+  - LilyGo T-Deck (ESP32 mesh device)
 
 ---
 ![logo](HOPE_Integrated_Systems_Logo-banner-crop.png)
