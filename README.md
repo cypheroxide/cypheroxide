@@ -67,7 +67,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 - **Work Laptop**
   - ***Lenovo ThinkPad T14 Gen3***
     - Intel vPro Core i5-1245u / Irix Xe / 16GB RAM / 256GB NVME
-    - Running: **Windows 11 Enterprise** / **HyperV KMVs**
+    - Running: **Windows 11 Enterprise** / **HyperV KVMs**
     - Peripherals:
       - UtechSmart Venus Pro Wireless Mouse
       - Royal Kludge RK-F68, kailh lo-pro browns
