@@ -57,7 +57,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 
 - **Development Laptop**
   - ***Lenovo Legion 5***
-    - AMD Ryzen 4800h / Nvidia GTX 2070 / 32GB RAM / 2 x 1TB NVME
+    - AMD Ryzen 4800h / Nvidia RTX 2070 / 32GB RAM / 2 x 1TB NVME
     - Running:  **Arch Linux (KDE/Wayland)** & **DWM**
     - Peripherals:
       - Uperfect 16" 120Hz 2560x1600 Portable Monitor
