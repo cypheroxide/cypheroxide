@@ -46,7 +46,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 - **Main Workstation**
   - ***DIY Build***
     - AMD Ryzen 5800x / Nvidia RTX 3080 / 64GB RAM / 2TB NVME + 14TB STORAGE
-    - Running: Dual boot **Arch Linux (KDE/Wayland)** & **PopOS (Cosmic)**
+    - Running: Dual boot **Arch Linux (KDE/Wayland)**
     - Peripherals:
       - Drop Entr + LOTR Dwarvish Edition
       - UtechSmart Venus Pro RGB Mouse
@@ -58,19 +58,12 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 - **Development Laptop**
   - ***Lenovo Legion 5***
     - AMD Ryzen 4800h / Nvidia RTX 2070 / 32GB RAM / 2 x 1TB NVME
-    - Running:  **Arch Linux (KDE/Wayland)** & **DWM**
+    - Running:  **Arch Linux (KDE/Wayland)** & **Hyprland**
     - Peripherals:
       - Uperfect 16" 120Hz 2560x1600 Portable Monitor
       - UtechSmart Venus Pro RGB Wireless Mouse
-      - MeeAudio M6 Pro IEM, bluetooth + wired in-ear monitors
-
-- **Work Laptop**
-  - ***Lenovo ThinkPad T14 Gen3***
-    - Intel vPro Core i5-1245u / Irix Xe / 16GB RAM / 256GB NVME
-    - Running: **Windows 11 Enterprise** / **HyperV KVMs**
-    - Peripherals:
-      - UtechSmart Venus Pro Wireless Mouse
       - Royal Kludge RK-F68, kailh lo-pro browns
+      - MeeAudio M6 Pro IEM, bluetooth + wired in-ear monitors
       - JLab Epic AIR ANC
 
 - **Homelab**
