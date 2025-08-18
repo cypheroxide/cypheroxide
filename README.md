@@ -3,6 +3,12 @@
 
 I am an ethical hacker, cybersecurity researcher, and passionate about integrating AI into my workflows. I create blogs, CTF write-ups, and tutorials on cybersecurity, Linux, and automation. And I have a habit of making obscure pop-culture references.
 
+
+### NOTE:
+As of 20250812, due to Microsoft's growing monopoly and the end of GitHub's independence (depsite its acquisition), core projects and their development have moved to alternative DevOps paltforms that will not absorb code for AI training. Publicly accessible repositories will be available [here](https://gitlab.com/cypheroxide).
+
+![Clippy](/images/clippy.jpg)   
+
 ---
 
 ![Banner](Banner.png)
@@ -10,6 +16,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 ---
 ![Metrics](github-metrics.svg)
 ## 🚀 About Me
+
 - **Data Center Technician** by day, **Hacker** and **AI Dev** by night 🕶️
 - Building and tinkering with my [VPS servers](https://hostinger.com/?REFERRALCODE=1ANGELSANTI16), Docker/Podman, Kubernetes, and homelab 🛠️
 - Daily driving [Arch Linux](https://archlinux.org/) with a special love for containers, virtualization, and AI.
