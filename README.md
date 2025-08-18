@@ -7,7 +7,7 @@ I am an ethical hacker, cybersecurity researcher, and passionate about integrati
 ### NOTE:
 As of 20250812, due to Microsoft's growing monopoly and the end of GitHub's independence (depsite its acquisition), core projects and their development have moved to alternative DevOps paltforms that will not absorb code for AI training. Publicly accessible repositories will be available [here](https://gitlab.com/cypheroxide).
 
-![Clippy](/images/Clippy.jpg)   
+![Clippy](/Clippy.jpg)   
 
 ---
 
