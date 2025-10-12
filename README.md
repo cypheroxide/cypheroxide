@@ -22,7 +22,7 @@ I am a  cybersecurity researcher, a self-teaching junior developer, and leveragi
 
 ## 🖥️ My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,py,js,ts,html,nodejs,css,go,neovim,azure,aws,docker,kubernetes,arch,kali,redhat,windows,cmake,git,github,mongodb,postgres,raspberrypi,rust,tensorflow,pytorch,wordpress&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,py,js,ts,html,nodejs,css,go,neovim,azure,aws,docker,kubernetes,arch,kali,redhat,windows,cmake,git,github,mongodb,postgres,raspberrypi,rust,tensorflow,pytorch,wordpress&perline=15)](https://skillicons.dev)
 
 - **Operating Systems**: Arch Linux, Red Hat/CentOS, Ubuntu/Debian, Kali, Windows 10/11
 - **Languages**: Bash, Python, PowerSehll, Rust, Go, Javascript
