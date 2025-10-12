@@ -105,9 +105,9 @@ I am a  cybersecurity researcher, a self-teaching junior developer, and leveragi
 
 ## If you like what you see, would you consider buying me some coffee?
 
-[BuyMeACoffe](https://buymeacoffee.com/cypheroxide)
-BTC:  bc1qnhquxexmegk4gdnv6ewm8j3rxwkvsmp9h0sshg
-ETH:  0xc50FEC02680C1c52E49030f5f698294481708654
+[BuyMeACoffe](https://buymeacoffee.com/cypheroxide)  
+BTC:  bc1qnhquxexmegk4gdnv6ewm8j3rxwkvsmp9h0sshg  
+ETH:  0xc50FEC02680C1c52E49030f5f698294481708654  
 
 ## 📫 Get in Touch
 
