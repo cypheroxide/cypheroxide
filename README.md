@@ -35,10 +35,10 @@ I am a  cybersecurity researcher, a self-teaching junior developer, and leveragi
 ## ⚡ Quick Facts
 
 - 🤖💻 Always experimenting with **Pentesting**, **AI**, and **Linux**
-- 🐺 Unfortunate dog-dad of a **Morkie** 🐾
-- 😺 Cat Owner (**Hades** aka "Turd Muffin" and **Storm** aka "Toasted Marshmallow" 🖤)
+- 🐺 Unfortunate dog-dad of a **Morkie** ("kitteh" 🐾)
+- 😺 Cat Owner ("Turd Muffin" and "Toasted Marshmallow" 🖤)
 - 🛌 In a Hate-Hate relationship with **My Pillow**
-- 🧀 Nacho Enthusiast & Burrito lover
+- 🧀 Chimichanga Enthusiast & Burrito lover
 - 👾 Last to successfully Gnarfle the Garthok
 
 ---
@@ -60,13 +60,12 @@ I am a  cybersecurity researcher, a self-teaching junior developer, and leveragi
 - **Development Laptop**
   - ***Lenovo Legion 5***
     - AMD Ryzen 4800h / Nvidia RTX 2070 / 32GB RAM / 2 x 1TB NVME
-    - System:  **Arch Linux (KDE/Wayland)** & **Hyprland**
+    - System:  **Arch Linux (Hyprland)**
       - Security: SecureBoot, LUKS2 aes512, TPM2 unlocking, Unified Zen Kernel (signed)  
-      - Customizations: Btrfs, Snapper snapshots (/ & /home)  
+      - Customizations: Btrfs, Snapper snapshots (/ & /home), graphics mode switching (iGPU only/hybrid)
     - Peripherals:
       - Uperfect 16" 120Hz 2560x1600 Portable Monitor
       - UtechSmart Venus Pro RGB Wireless Mouse
-      - Royal Kludge RK-F68, kailh lo-pro browns
       - MeeAudio M6 Pro IEM, bluetooth + wired in-ear monitors
       - JLab Epic AIR ANC
 
@@ -80,6 +79,7 @@ I am a  cybersecurity researcher, a self-teaching junior developer, and leveragi
     - Running: **Proxmox VE**, **Docker**, **Kubernetes**
 
 - **Pentester EDC**
+  - Google Pixel 9 Pro XL, GrapheneOS
   - Google Pixel 6 Pro, GrapheneOS
   - OnePlus 7 Pro, LineageOS 22+ (rooted) + Kali Nethunter + custom kernel
   - Raspberry Pi 4 4GB (Kali Linux)
@@ -87,15 +87,17 @@ I am a  cybersecurity researcher, a self-teaching junior developer, and leveragi
   - Raspberry Pi 4 8GB (RaspiOS Lite)
     - PiSugar 2 Plus 5000mAh, Panda Wireless pau09 dual-band wifi adpater
     - USB-boot 128 GB SSD, custom Wireless AP config, VPN manager, PiHole, Docker  
+  - Royal Kludge RK-F68 folding mechanical keyboard, kailh lo-pro browns
   - [Covert Instruments](https://covertinstruments.com/) Echelon Set
   - Full set Auto Jigglers + warded lock picks
   - Flipper Zero + [Momemtum](https://momentum-fw.dev/) firmware (current build: mntm-dev-3eab261e)
     - Triple-threat board: cc1101, nrf24 and sp32 w/3x stubby antenna
   - Panda Wireless pau09 dual-band usb wifi adapter
-  - Hak5 WiFi Pineapple Mk VII
+  - Hak5 WiFi Pineapple Mk VII + MK7AC module
   - Minigotchi (ESP 8266-based pwnagotchi)
-  - Aeronote Reusable notebook x2 with Frixion Erasable Pen
+  - Aeronote Reusable notebook
   - LilyGo T-Deck (ESP32 mesh device)
+  - Kindle 10th Gen, jailbroken & modded
 
 ---
 
