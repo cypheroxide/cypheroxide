@@ -50,7 +50,7 @@ If you
 - **Main Workstation**
   - ***DIY Build***
     - AMD Ryzen 5800x / Nvidia RTX 3080 / 64GB RAM / 2TB NVME + 14TB STORAGE
-    - System: **Arch Linux (KDE/Wayland)**
+    - System: **Arch Linux (Hyprland)**
     - Peripherals:
       - Drop Entr + LOTR Dwarvish Edition
       - UtechSmart Venus Pro RGB Mouse
@@ -62,7 +62,7 @@ If you
 - **Development Laptop**
   - ***Lenovo Legion 5***
     - AMD Ryzen 4800h / Nvidia RTX 2070 / 32GB RAM / 2 x 1TB NVME
-    - System:  **Arch Linux (Hyprland)**
+    - System:  **Arch Linux (Niri + DMS)**
       - Security: SecureBoot, LUKS2 aes512, TPM2 unlocking, Dual UKI (iGPU & Hybrid)  
       - Customizations: Btrfs, Snapper snapshots (/ & /home), graphics mode switching (iGPU only/hybrid)
     - Peripherals:
