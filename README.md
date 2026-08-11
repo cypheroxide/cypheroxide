@@ -50,7 +50,7 @@ If you
 - **Main Workstation**
   - ***DIY Build***
     - AMD Ryzen 5800x / Nvidia RTX 3080 / 64GB RAM / 2TB NVME + 14TB STORAGE
-    - System: **Arch Linux (Hyprland)**
+    - System: **Fedora Workstation + KDE Plasma**
     - Peripherals:
       - Drop Entr + LOTR Dwarvish Edition
       - UtechSmart Venus Pro RGB Mouse
